@@ -1,0 +1,23 @@
+.acero {
+        background-image: url(../img/wllp/acero.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        padding: 0.1px;
+}
+
+.agua{
+        background-image: url(../img/wllp/agua.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        padding: 0.1px;
+}
+
+.bicho{
+    background-image: url(../img/wllp/bicho.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0.1px;
+}

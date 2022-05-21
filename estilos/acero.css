@@ -3,14 +3,8 @@ html, body {
         padding: 0;
 }
 
-body{
-        background-image: url(../img/acero.jpg);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-}
 
-.headerAcero{
+.headerPoke{
         background-color: rgb(245, 245, 220);
         top: 0px;
         width: 1349px;
@@ -21,14 +15,14 @@ body{
 	display: flex;
 }
 
-.nameAcero {
+.name {
 	padding-left: 15px;
 	color: #000000;
 	text-decoration: none;
 
 }
 
-.imgAcero{
+.imgHeader{
         padding-top: 36px;
         padding-left: 2px;
 	width:80px;
@@ -43,22 +37,22 @@ body{
         margin-left: 175px;
 }
 
+.mainDivInm{
+        background-color: rgb(24, 23, 23, 0.9);
+        text-align: center;
+        width: 1000px;
+        height: 200px;
+        margin-left: 175px;
+}
+
 .tituloMain{
         color: beige;
         font-family: 'Roboto' , sans-serif;
 }
 
-.footerPoke{
-        background-color: rgb(245, 245, 220);
-	font-size: 20px;
-        height: 60px;
-        width: 1349px;
-        margin-top: 30px;
-}
-
 .ancla{
-        padding-top: 27px;
-        padding-left: 30px;
+        padding-top: 25px;
+        padding-left: 40px;
         display: flex;
         text-decoration: none;
 }
@@ -73,7 +67,72 @@ body{
 	text-decoration: none 
 }
 
-.ice{
-        color: #49d0bf;
-        font-size: 30px;
+.anclaSocial{
+        color: #000000;
+        text-decoration: none;
 }
+
+.anclaSocial:hover {
+	color: black; 
+	text-decoration: none 
+}
+
+.anclaSocial:visited {
+	color: black;
+	text-decoration: none 
+}
+
+.social{
+        padding-left: 900px;
+        padding-top: 100px;
+        weight: 25px;
+        height: 25px;
+}
+
+.footerPoke{
+        background-color: rgb(245, 245, 220);
+	font-size: 25px;
+        height: 100px;
+        width: 1349px;
+        margin-top: 30px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.footerImg {
+        padding-right: 5px;
+        width: 30px;
+        height: 30px;
+}
+
+.anclaType:hover {
+	color: currentColor; 
+	text-decoration: none 
+}
+
+.anclaType:visited {
+	color:currentColor;
+	text-decoration: none 
+}
+
+.anclaType{
+        text-decoration: none;
+        color: currentColor;
+}
+
+.anclaNext:hover {
+	color: currentColor; 
+	text-decoration: none 
+}
+
+.anclaNext:visited {
+	color:currentColor;
+	text-decoration: none 
+}
+
+.anclaNext{
+        text-decoration: none;
+        color: black;
+        padding-left: 1100px;
+        
+}
+

@@ -185,3 +185,4 @@ function fuego() {
 function normal() {
 	location.href = "paginas/normal.html";
 };
+
