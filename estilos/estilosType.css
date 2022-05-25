@@ -51,10 +51,9 @@ html, body {
 }
 
 .ancla{
-        padding-top: 25px;
-        padding-left: 40px;
-        display: flex;
-        text-decoration: none;
+        color: black;
+	text-decoration: none;
+
 }
 
 .ancla:hover {
@@ -66,6 +65,23 @@ html, body {
 	color: black;
 	text-decoration: none 
 }
+
+.anclaNext{
+        color: black;
+	text-decoration: none;
+
+}
+
+.anclaNext:hover {
+	color: currentColor; 
+	text-decoration: none 
+}
+
+.anclaNext:visited {
+	color:currentColor;
+	text-decoration: none 
+}
+
 
 .anclaSocial{
         color: #000000;
@@ -92,7 +108,7 @@ html, body {
 .footerPoke{
         background-color: rgb(245, 245, 220);
 	font-size: 25px;
-        height: 100px;
+        height: 80px;
         width: 1349px;
         margin-top: 30px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -100,8 +116,8 @@ html, body {
 
 .footerImg {
         padding-right: 5px;
-        width: 30px;
-        height: 30px;
+        width:40px;
+        height: 40px;
 }
 
 .anclaType:hover {
@@ -119,20 +135,37 @@ html, body {
         color: currentColor;
 }
 
-.anclaNext:hover {
-	color: currentColor; 
-	text-decoration: none 
+/* .footerMenu{
+        padding-left: 400px;
+        width: 550px
+}*/
+
+.footerDiv{
+        display:flex;
+        justify-content: center;
 }
 
-.anclaNext:visited {
-	color:currentColor;
-	text-decoration: none 
+.footerDiv-One{
+        padding-right: 20px;
+        padding-top: 24px;
 }
 
-.anclaNext{
-        text-decoration: none;
-        color: black;
-        padding-left: 1100px;
-        
+.footerDiv-Two{
+        padding-top: 10px;
 }
 
+.footerDiv-Three{
+        padding-left: 20px;
+        padding-top: 24px;
+        width: 180.52px;
+}
+
+.footerDiv-ImgOne{
+        padding-top: 18px;
+        width: 42px;
+}
+
+.footerDiv-ImgTwo{
+        padding-top: 18px;
+
+}

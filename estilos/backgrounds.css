@@ -22,7 +22,7 @@
         padding: 0.1px;
 }
 
-.dragon{
+.dragonB{
         background-image: url(../img/wllp/dragon.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -78,7 +78,7 @@
         padding: 0.1px;
 }
 
-.normal{
+.normalB{
         background-image: url(../img/wllp/normal.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
