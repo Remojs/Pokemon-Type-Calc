@@ -2,12 +2,12 @@
 
 .boton.hada::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #F312E5;
+	border-bottom: 100px solid #fb89eb;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -20,12 +20,12 @@
 
 .boton.acero::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #403E40;
+	border-bottom: 100px solid #5a8ea2;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -38,12 +38,12 @@
 
 .boton.siniestro::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #43317e;
+	border-bottom: 100px solid #534c5e;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -56,12 +56,12 @@
 
 .boton.dragon::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #0C9393;
+	border-bottom: 100px solid #006fc9;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -74,12 +74,12 @@
 
 .boton.fantasma::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #5D42D2;
+	border-bottom: 100px solid #4d6ab2;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -92,12 +92,12 @@
 
 .boton.roca::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #5E5328;
+	border-bottom: 100px solid #c8b686;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -110,12 +110,12 @@
 
 .boton.bicho::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #67960E;
+	border-bottom: 100px solid #83c300;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -128,12 +128,12 @@
 
 .boton.psiquico::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #d64bc4;
+	border-bottom: 100px solid #ff6675;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -146,12 +146,12 @@
 
 .boton.volador::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #6599dd;
+	border-bottom: 100px solid #89aae3;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -164,12 +164,12 @@
 
 .boton.tierra::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #A75F10;
+	border-bottom: 100px solid #e87236;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -182,12 +182,12 @@
 
 .boton.veneno::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #BB39EB;
+	border-bottom: 100px solid #b362cc;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -200,12 +200,12 @@
 
 .boton.lucha::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #D82808;
+	border-bottom: 100px solid #e0306a;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -218,12 +218,12 @@
 
 .boton.hielo::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #82E5F1;
+	border-bottom: 100px solid #49d0bf;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -236,12 +236,12 @@
 
 .boton.planta::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #24F40B;
+	border-bottom: 100px solid #38bf4b;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -255,12 +255,12 @@
 .boton.electrico::after{
 	content: "";
 	color: #ffffff;
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #F7FF00;
+	border-bottom: 100px solid #fbd100;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -273,12 +273,12 @@
 
 .boton.agua::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #0B97EC;
+	border-bottom: 100px solid #3692dc;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -291,12 +291,12 @@
 
 .boton.fuego::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #EC7F0B;
+	border-bottom: 100px solid #ff9843;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -309,12 +309,12 @@
 
 .boton.normal::after{
 	content: "";
-	width: 120%;
+	width: 130%;
 	position: absolute;
 	z-index: 100;
 	top: 0;
 	left: calc(-100% - 80px);
-	border-bottom: 100px solid #CFD4C5;
+	border-bottom: 100px solid #636466;
 	border-right: 100px solid transparent;
 	transition: .5s ease-in-out all;
 }
@@ -322,3 +322,4 @@
 .boton.normal:hover::after{
 	left: 0;
 }
+

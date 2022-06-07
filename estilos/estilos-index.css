@@ -1,40 +1,18 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box; 
-	font-family: 'Ubuntu', sans-serif;
-	margin: 0; padding: 0;
-	box-sizing: border-box;
-	outline: none; border: none;
-	text-decoration: none;
-	text-transform: capitalize;
-	transition: all .2s linear;
-	line-height: 1.5;
-}
 
-html{
-	font-size: 62.5%;
-	overflow-x: hidden;
-	scroll-behavior: smooth;
-}
 
 
 
 body{
-	color: white;
-	padding-left: 100px;
-	background-color: #24282b;
-	background-image:url(https://p4.wallpaperbetter.com/wallpaper/478/727/680/simple-minimalism-pokemon-simple-background-wallpaper-preview.jpg);
-	background-size: 60em;
-	background-position: right bottom;
-	background-attachment: fixed;
+	background-image:url(../img/wllp/indexBack.png);
 	background-repeat: no-repeat;
-	z-index: 200;
-	display: inline-flex;
-	position: absolute;
-	font-family: 'Roboto' , sans-serif;
-	min-height: 100vh;
-	
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+main{
+	padding-left: 100px
 }
 
 .contenedor{
@@ -48,7 +26,7 @@ body{
 	position: absolute
 }
 
-h1{
+.title{
 	font-size: 58px;
 	text-align: center;
 	margin-bottom: 80px;
@@ -59,7 +37,7 @@ h1{
 	display: inline-block;
 }
 
-h2{
+.titleTwo {
 	font-size: 30px;
 	text-align: center;
 	margin-bottom: 80px;
@@ -96,8 +74,25 @@ h2{
 }
 
 .boton span{
-	position: ralative;
+	position: relative;
 	z-index: 200;
 	transition: .3s ease all;
+} 
+
+/* BOTONES */
+
+.iHeader{
+	width: 1490px;
+	height: 100px;
+	background-color: #fff;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sa
 }
 
+.iContainer{
+	display: flex;
+	flex-direction: column;
+}
+
+.name{
+	font-size:50px
+}
